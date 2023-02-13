@@ -15,7 +15,7 @@ This module contains all unittest for Base class
 
 class TestBase(unittest.TestCase):
     """
-    Class of functions to run tests
+    Class of functions to run the tests
     """
     def setUp(self):
         """

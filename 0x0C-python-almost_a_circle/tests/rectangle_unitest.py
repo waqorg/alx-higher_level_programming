@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module to test the function rectangle"""
+"""Module to test the function of rectangle"""
 import unittest
 import rectangle
 

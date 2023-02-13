@@ -7,7 +7,7 @@ from models.base import Base
 
 class Rectangle(Base):
     '''
-        Defining the Rectangle class
+        Defining Rectangle class
         Inherits from:
             Base
     '''

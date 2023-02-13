@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Creating the base class of all other classes for this project.
+    Creating the base class of all the other classes for this project.
 '''
 import json
 import csv
@@ -8,7 +8,7 @@ import csv
 
 class Base:
     '''
-        This class will manage the id attribute for all the classes.
+        This class will manage id attribute for all the classes.
         Arguments:
             @id: The id for a specific instance.
     '''
