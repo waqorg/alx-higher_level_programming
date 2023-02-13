@@ -5,7 +5,7 @@ from models.rectangle import Rectangle
 
 
 class Square(Rectangle):
-    """Inherits from Rectangle
+    """Inherits from the Rectangle
     """
 
     def __init__(self, size, x=0, y=0, id=None):
