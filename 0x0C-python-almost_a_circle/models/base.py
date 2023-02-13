@@ -6,7 +6,7 @@ import csv
 
 
 class Base:
-    """Base of the other shapes
+    """Base of other shapes
     """
     __nb_objects = 0
 

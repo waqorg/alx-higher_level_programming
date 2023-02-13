@@ -22,7 +22,7 @@ class TestSquare(unittest.TestCase):
         self.assertEqual(Base._Base__nb_objects, 0)
 
     def test_instance(self):
-        """Test instantiation
+        """Test the instantiation
         """
 
         o1 = Square(5)
