@@ -12,7 +12,7 @@ What you should learn from this project:
 * What are subqueries
 * What are JOIN and UNION
 
----
+
 
 ### [0. My privileges!](./0-privileges.sql)
 * Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server.
